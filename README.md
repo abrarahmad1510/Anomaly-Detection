@@ -34,3 +34,6 @@ The license for Industrial Machinery Anomaly Detection using an Autoencoder is a
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 Copyright 2021 The MathWorks, Inc.
+
+## About the Author:
+Created by Abrar Ahmad on Jan 25th 2025
